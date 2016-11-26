@@ -44,7 +44,11 @@ module.exports = {
   },
   plugins: [
     new webpack.HotModuleReplacementPlugin(),
-    new CopyWebpackPlugin([{from: 'lib/luciad', to: 'lib/luciad'}]),
+    new CopyWebpackPlugin([
+        {from: 'lib/luciad', to: 'lib/luciad'},
+        {from: 'data', to: 'data'},
+        {from: 'lib/samples', to: 'lib/samples'}
+        ]),
     new webpack.ProvidePlugin({
       $: "jquery",
       jQuery: "jquery",
