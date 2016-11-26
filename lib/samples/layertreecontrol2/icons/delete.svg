@@ -1,0 +1,24 @@
+<svg viewBox="0 0 32 32">
+  <path
+      style="stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;"
+      d="m 29.56182,4.75 -6.70472,0 0,-2.25 c 0,-1.2 -1.06666,-2.25 -2.2857,-2.25 l -9.1428,0 C 10.20956,0.25 9.1429,1.3 9.1429,2.5 l 0,2.25 -6.70472,0 0,1.5 2.2857,0 3.0476,25.5 16.45704,0 3.0476,-25.5 2.2857,0 0,-1.5 z M 10.6667,2.5 c 0,-0.45 0.30476,-0.75 0.7619,-0.75 l 9.1428,0 c 0.45714,0 0.7619,0.3 0.7619,0.75 l 0,2.25 -10.6666,0 0,-2.25 z m 12.1904,27.75 -13.7142,0 -2.89522,-24 19.50464,0 -2.89522,24 z"
+  />
+  <rect
+      style="stroke-width:0.51300001;stroke-miterlimit:4;stroke-dasharray:none;"
+      height="12.1904"
+      width="1.5238"
+      y="11.940598"
+      x="15.2381"/>
+  <rect
+      style="stroke-width:0.51300001;stroke-miterlimit:4;stroke-dasharray:none;"
+      height="12.1904"
+      width="1.5238"
+      y="11.940598"
+      x="10.6667"/>
+  <rect
+      style="stroke-width:0.51300001;stroke-miterlimit:4;stroke-dasharray:none;"
+      height="12.1904"
+      width="1.5238"
+      y="11.940598"
+      x="19.8095"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg viewBox="0 0 16 16">
+  <g>
+    <circle
+        style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.4000001;"
+        cx="8"
+        cy="8.0000601"
+        r="3" />
+    <path style="fill:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;" d="m 2.5,5.5002 0,-3 3,0" />
+    <path style="fill:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;" d="m 10.5,2.5002 3,0 0,3"/>
+    <path style="fill:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;" d="m 2.5,10.5002 0,3 3,0" />
+    <path style="fill:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;" d="m 13.5,10.5002 0,3 -3,0" />
+  </g>
+</svg>

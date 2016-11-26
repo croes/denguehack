@@ -1,0 +1,21 @@
+<svg viewBox="8 0.98053002 16 16">
+  <rect
+      style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;;stroke-dasharray:none;stroke-dashoffset:1.40000012"
+      width="5"
+      height="5"
+      x="9.5"
+      y="2.48053"/>
+  <path
+      style="fill:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;"
+      d="m 18.923729,7.3973355 a 4.9618649,4.9618649 0 1 1 -9.9237295,0 4.9618649,4.9618649 0 1 1 9.9237295,0 z"
+      transform="matrix(0.50384282,0,0,0.50384282,12.965415,1.2534356)"/>
+  <path style="fill:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;"
+        d="m 9.5,15.48053 5,0 -2.5,-5 z"/>
+  <rect
+      style="fill:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;"
+      width="3.5355339"
+      height="3.5355339"
+      x="3.1957483"
+      y="21.55299"
+      transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"/>
+</svg>

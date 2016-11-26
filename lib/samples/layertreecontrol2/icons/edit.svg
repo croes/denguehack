@@ -1,0 +1,9 @@
+<svg viewBox="0 0 32 32">
+  <g
+      transform="matrix(1.2561109,0,0,1.2513325,16.004167,15.933282)"
+      style="fill:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;">
+    <path
+        d="m 12.2,-6.6 c 0.4,-0.4 0.4,-1 0,-1.4 L 8,-12.2 c -0.4,-0.4 -1,-0.4 -1.4,0 l -19.1,19.1 0,5.7 5.7,0 19,-19.2 z m -4.9,-4.9 4.2,4.2 -2.8,2.9 -4.3,-4.3 2.9,-2.8 z M 3.7,-8 8,-3.7 -6.2,10.4 -10.4,6.2 3.7,-8 Z m -15.2,19.5 0,-4.2 0.4,-0.4 4.2,4.2 -0.4,0.4 -4.2,0 z"
+        style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"/>
+  </g>
+</svg>

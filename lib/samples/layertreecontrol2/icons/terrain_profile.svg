@@ -1,0 +1,10 @@
+<svg viewBox="0 0 32 32">
+  <polyline
+      points="-13.5,9.9 -8.9,-4 -5.8,7.6 -3.5,3.7 -0.4,13 5,0.6 9.7,13 13.5,6.8 "
+      transform="matrix(1.0666,0,0,1.0666,16.5591,15.344458)"
+      style="fill:none;stroke-width:1.87511718;stroke-miterlimit:10;stroke-dasharray:none"/>
+  <path
+      style="fill:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+      d="m 1,0 0,31 31,0"
+  />
+</svg>
