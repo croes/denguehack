@@ -1,0 +1,514 @@
+{
+  "type" : "FeatureCollection",
+  "crs" : {
+    "type" : "name",
+    "properties" : {
+      "name" : "urn:ogc:def:crs:EPSG::4326"
+    }
+  },
+  "features" : [ {
+    "type" : "Feature",
+    "id" : "1937",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -49.3695626, -28.678994 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "2",
+      "id" : "1937",
+      "lat" : "-28.678994",
+      "lon" : "-49.3695626",
+      "timestamp" : "2016-09-19 16:59:47"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1936",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -51.3405101, -29.2248594 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "NA",
+      "id" : "1936",
+      "lat" : "-29.2248594",
+      "lon" : "-51.3405101",
+      "timestamp" : "2016-09-19 17:28:29"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1935",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -51.1595022, -23.3112877 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "1",
+      "id" : "1935",
+      "lat" : "-23.3112877",
+      "lon" : "-51.1595022",
+      "timestamp" : "2016-09-19 18:20:12"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1934",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -58.6480317, -34.7692489 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "NA",
+      "id" : "1934",
+      "lat" : "-34.7692489",
+      "lon" : "-58.6480317",
+      "timestamp" : "2016-09-19 18:20:59"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1933",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.3758956704362, 10.3430015 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "NA",
+      "id" : "1933",
+      "lat" : "10.3430015",
+      "lon" : "-73.3758956704362",
+      "timestamp" : "2016-09-19 18:25:34"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1932",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -43.2093726, -22.9110136 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "5",
+      "id" : "1932",
+      "lat" : "-22.9110136",
+      "lon" : "-43.2093726",
+      "timestamp" : "2016-09-19 18:52:52"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1931",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -53.1999999, -10.3333332 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "NA",
+      "id" : "1931",
+      "lat" : "-10.3333332",
+      "lon" : "-53.1999999",
+      "timestamp" : "2016-09-19 20:30:01"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1930",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -46.6333823, -23.5506506 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "3",
+      "id" : "1930",
+      "lat" : "-23.5506506",
+      "lon" : "-46.6333823",
+      "timestamp" : "2016-09-19 20:51:14"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1929",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -51.6869478, -23.5157166 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "1",
+      "id" : "1929",
+      "lat" : "-23.5157166",
+      "lon" : "-51.6869478",
+      "timestamp" : "2016-09-19 20:54:03"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1928",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -43.2093726, -22.9110136 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "5",
+      "id" : "1928",
+      "lat" : "-22.9110136",
+      "lon" : "-43.2093726",
+      "timestamp" : "2016-09-19 21:14:47"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1927",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.085237657545, 4.63874255 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "NA",
+      "id" : "1927",
+      "lat" : "4.63874255",
+      "lon" : "-74.085237657545",
+      "timestamp" : "2016-09-19 21:18:33"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1926",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -53.4360665, -24.9616761 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "1",
+      "id" : "1926",
+      "lat" : "-24.9616761",
+      "lon" : "-53.4360665",
+      "timestamp" : "2016-09-19 23:00:15"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1925",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -66.4166669, 10.25 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "NA",
+      "id" : "1925",
+      "lat" : "10.25",
+      "lon" : "-66.4166669",
+      "timestamp" : "2016-09-19 23:39:49"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1924",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -66.1109317, 8.0018709 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "NA",
+      "id" : "1924",
+      "lat" : "8.0018709",
+      "lon" : "-66.1109317",
+      "timestamp" : "2016-09-19 23:43:42"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1923",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -58.4375796, -34.6075797 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "NA",
+      "id" : "1923",
+      "lat" : "-34.6075797",
+      "lon" : "-58.4375796",
+      "timestamp" : "2016-09-20 00:26:19"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1922",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -43.2093726, -22.9110136 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "5",
+      "id" : "1922",
+      "lat" : "-22.9110136",
+      "lon" : "-43.2093726",
+      "timestamp" : "2016-09-20 00:48:01"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1921",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -53.1999999, -10.3333332 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "NA",
+      "id" : "1921",
+      "lat" : "-10.3333332",
+      "lon" : "-53.1999999",
+      "timestamp" : "2016-09-20 00:53:06"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1920",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -43.2093726, -22.9110136 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "5",
+      "id" : "1920",
+      "lat" : "-22.9110136",
+      "lon" : "-43.2093726",
+      "timestamp" : "2016-09-20 01:13:56"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1919",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -60.8816091, -26.3829646 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "NA",
+      "id" : "1919",
+      "lat" : "-26.3829646",
+      "lon" : "-60.8816091",
+      "timestamp" : "2016-09-20 01:34:38"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1918",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -59.9864061, -3.1319514 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "NA",
+      "id" : "1918",
+      "lat" : "-3.1319514",
+      "lon" : "-59.9864061",
+      "timestamp" : "2016-09-20 01:45:44"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1917",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -70.5334335295026, -33.44723275 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "NA",
+      "id" : "1917",
+      "lat" : "-33.44723275",
+      "lon" : "-70.5334335295026",
+      "timestamp" : "2016-09-20 01:57:42"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1916",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -96.7207814690496, 17.0965868 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "NA",
+      "id" : "1916",
+      "lat" : "17.0965868",
+      "lon" : "-96.7207814690496",
+      "timestamp" : "2016-09-20 16:49:19"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1915",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.085237657545, 4.63874255 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "NA",
+      "id" : "1915",
+      "lat" : "4.63874255",
+      "lon" : "-74.085237657545",
+      "timestamp" : "2016-09-20 16:55:01"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1914",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -47.0608299, -22.9055599 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "3",
+      "id" : "1914",
+      "lat" : "-22.9055599",
+      "lon" : "-47.0608299",
+      "timestamp" : "2016-09-20 17:19:53"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1913",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -89.3372986034413, 21.1653843 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "NA",
+      "id" : "1913",
+      "lat" : "21.1653843",
+      "lon" : "-89.3372986034413",
+      "timestamp" : "2016-09-20 17:59:58"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1912",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -84.7561317, 10.6916755 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "NA",
+      "id" : "1912",
+      "lat" : "10.6916755",
+      "lon" : "-84.7561317",
+      "timestamp" : "2016-09-20 19:13:01"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1911",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -51.9382845, -23.425104 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "1",
+      "id" : "1911",
+      "lat" : "-23.425104",
+      "lon" : "-51.9382845",
+      "timestamp" : "2016-09-20 19:29:24"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1910",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -89.9430807706679, 19.33157265 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "NA",
+      "id" : "1910",
+      "lat" : "19.33157265",
+      "lon" : "-89.9430807706679",
+      "timestamp" : "2016-09-20 20:05:10"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1909",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -46.6333823, -23.5506506 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "3",
+      "id" : "1909",
+      "lat" : "-23.5506506",
+      "lon" : "-46.6333823",
+      "timestamp" : "2016-09-20 20:37:11"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1908",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -46.3338889, -23.9608329 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "3",
+      "id" : "1908",
+      "lat" : "-23.9608329",
+      "lon" : "-46.3338889",
+      "timestamp" : "2016-09-20 21:00:51"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1907",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -88.9140682, 13.8000382 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "NA",
+      "id" : "1907",
+      "lat" : "13.8000382",
+      "lon" : "-88.9140682",
+      "timestamp" : "2016-09-20 22:06:02"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1906",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -46.6333823, -23.5506506 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "3",
+      "id" : "1906",
+      "lat" : "-23.5506506",
+      "lon" : "-46.6333823",
+      "timestamp" : "2016-09-20 22:17:45"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1905",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -43.6990066, -22.7439579 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "5",
+      "id" : "1905",
+      "lat" : "-22.7439579",
+      "lon" : "-43.6990066",
+      "timestamp" : "2016-09-20 23:00:56"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1904",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -60.6615414, -32.9595003 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "NA",
+      "id" : "1904",
+      "lat" : "-32.9595003",
+      "lon" : "-60.6615414",
+      "timestamp" : "2016-09-21 00:01:41"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1903",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -43.2093726, -22.9110136 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "5",
+      "id" : "1903",
+      "lat" : "-22.9110136",
+      "lon" : "-43.2093726",
+      "timestamp" : "2016-09-21 00:16:28"
+    }
+  }, {
+    "type" : "Feature",
+    "id" : "1902",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -103.3469981, 20.676143 ]
+    },
+    "properties" : {
+      "assigned_to_cluster" : "NA",
+      "id" : "1902",
+      "lat" : "20.676143",
+      "lon" : "-103.3469981",
+      "timestamp" : "2016-09-21 00:57:15"
+    }
+  } ]
+}
